@@ -1,5 +1,7 @@
 ### study-of-basic-gates
 
+## Name: S Madhumitha
+## Reg No: 212225040217
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -69,11 +71,16 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+<img width="498" height="819" alt="Screenshot 2026-05-21 104712" src="https://github.com/user-attachments/assets/83ea15e8-2865-46ef-99bb-8bce007afd04" />
 
 **RTL realization Output:** 
+<img width="972" height="521" alt="Screenshot 2026-05-21 104732" src="https://github.com/user-attachments/assets/52a403c5-ec4b-45e1-b206-649e9bfd706f" />
 
 **RTL**
+<img width="1919" height="729" alt="Screenshot 2026-05-21 104823" src="https://github.com/user-attachments/assets/1ce5e53a-9366-4dda-baf9-f931508300eb" />
+
 
 **Result:**
+studied and verified the truth table of logic gates in Quartus II using Verilog programming successfully.
 
 
